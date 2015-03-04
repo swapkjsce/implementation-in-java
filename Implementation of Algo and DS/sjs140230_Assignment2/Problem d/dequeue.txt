@@ -1,0 +1,27 @@
+/* author : Swapnil Shah - sjs140230 */
+
+
+To run on windows machine:
+
+1. Open cmd
+2. Compile using java compiler as javac dequeue.java
+3. After compiling, run the program using command java dequeue followed with file path for input.
+4. Else after compiling,run the program using command java dequeue and hit enter. Once the program runs, input can be entered and to terminate the program enter End.
+
+To run on eclipse IDE
+
+1. Open the program in eclipse.
+2. Compile and run the program.
+3. To run the program by giving inputs hit the run button. Once the program runs, input can be entered and to terminate the program enter End.
+4. To run it with a file, go to run configuration and in arguments enter the file path of the input file.
+
+
+Operations Supported:
+
+AddF- to add at front of dequeue
+AddL- To Add at end of dequeue
+RemoveF-Remove first element of dequeue
+RemoveL-Remove last element of dequeue
+GetF-Get first element of dequeue
+GetL-Get last element of dequeue
+End- End the program

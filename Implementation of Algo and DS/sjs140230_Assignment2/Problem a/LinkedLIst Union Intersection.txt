@@ -1,0 +1,15 @@
+/* author : Swapnil Shah - sjs140230 */
+
+
+To run on eclipse IDE
+
+1. Open the program in eclipse.
+2. Edit the path of the two lists in program.
+3. Compile and run the program.
+4. The output will be Union and intersection.
+
+Instructions for the list input
+
+The lists should be given in the form of .txt files with list elements sorted and seperated by single white space. Different list files should be created for the two files.
+
+

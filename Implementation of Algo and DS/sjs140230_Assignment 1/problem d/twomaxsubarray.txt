@@ -1,0 +1,21 @@
+/* author : Swapnil Shah - sjs140230 */
+
+
+To run on windows machine:
+
+1. Open cmd
+2. Compile using java compiler as javac twomaxsubarray.java
+3. After compiling, run the program using command java twomaxsubarray.
+4. The program will ask number of indices in array
+5. Next enter the Values in array
+6. The output will be the two subarrays.
+
+To run on eclipse IDE
+
+1. Open the program in eclipse.
+2. Compile and run the program.
+3. The program will ask number of indices in array
+4. Next enter the Values in array
+5. The output will be the two subarrays.
+
+
