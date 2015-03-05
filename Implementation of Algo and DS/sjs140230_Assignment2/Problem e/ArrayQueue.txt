@@ -1,0 +1,16 @@
+/* author : Swapnil Shah - sjs140230 */
+
+
+To run on windows machine:
+
+1. Open cmd
+2. Compile using java compiler as javac ArrayQueue.java
+3. After compiling, run the program using command java ArrayQueue
+4. The output will be displayed.
+
+To run on eclipse IDE
+
+1. Open the program in eclipse.
+2. Compile and run the program.
+3. The output will be displayed.
+
